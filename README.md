@@ -5,3 +5,4 @@ Some of the designs features were:
 ->a Constraint Layout and the layout chains.
 ->Data Binding.
 ->Button Counters,Toast Messages and If-else statements.
+->A circle image view
