@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pneumonia App</string>
+    <string name="have_you_heard">Have you heard of Pneumonia</string>
+    <string name="click">Click the buttons to know about Pneumonia</string>
+    <string name="about_btn">ABOUT</string>
+    <string name="prev_btn">PREVENTION</string>
+    <string name="signs_btn">SIGNS</string>
+    <string name="about_text">Infection that inflames air sacs in one or both lungs,which may fill with fluid.  </string>
+    <string name="signsText">->Cough with pus
+        \n->Fever
+        \n->Chills
+        \n->Difficulty in breathing
+    </string>
+    <string name="prevText">->Getting a shot
+    \n->Wash hands regularly
+    \n->Exercise
+    ->Get enough sleep</string>
+
+</resources>
